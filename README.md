@@ -6,6 +6,7 @@ This repository contains the projects completed as part of my Data Analytics Int
 
 - **Task 1: Retail Sales Data Analysis (EDA)** — Completed
 - **Task 2: To be added**
+- **Task 3: Cleaning Data** - Completed
 
 ## Tools & Technologies
 
@@ -16,7 +17,7 @@ This repository contains the projects completed as part of my Data Analytics Int
 - Seaborn
 - Jupyter Notebook
 
-## Repository Structure
+## Key Learning
 
-Each internship task is organized in a separate folder containing the relevant project files.
+Through these projects, I am developing practical skills in **data analysis, data cleaning, exploratory data analysis, visualization, and extracting meaningful insights from datasets**.
 
