@@ -1,12 +1,12 @@
 # OIBSIP - Data Analytics Internship
 
-This repository contains the projects completed as part of my Data Analytics Internship at Oasis Infobyte.
+This repository contains the projects completed as part of my **Data Analytics Internship at Oasis Infobyte**.
 
 ## Projects
 
 - **Task 1: Retail Sales Data Analysis (EDA)** — Completed
-- **Task 2: To be added**
-- **Task 3: Cleaning Data** - Completed
+- **Task 2: Customer Segmentation Analysis** — Completed
+- **Task 3: Data Cleaning** — Completed
 
 ## Tools & Technologies
 
@@ -15,9 +15,9 @@ This repository contains the projects completed as part of my Data Analytics Int
 - NumPy
 - Matplotlib
 - Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
 ## Key Learning
 
-Through these projects, I am developing practical skills in **data analysis, data cleaning, exploratory data analysis, visualization, and extracting meaningful insights from datasets**.
-
+Through these projects, I am developing practical skills in **data analysis, data cleaning, exploratory data analysis, customer segmentation, machine learning, visualization, and extracting meaningful insights from datasets**.
